@@ -1,0 +1,372 @@
+{
+    "playlists": {
+        "href": "https://api.spotify.com/v1/browse/categories/toplists/playlists?offset=0&limit=10",
+        "items": [
+            {
+                "collaborative": false,
+                "description": "Olivia Rodrigo is on top of the Hottest 50!",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M",
+                "id": "37i9dQZF1DXcBWIGoYBM5M",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f000000033dea43365eb16182a263326e",
+                        "width": null
+                    }
+                ],
+                "name": "Today's Top Hits",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzMzNjYxMCwwMDAwMDQ5MjAwMDAwMTc4OTBjNjJkNmMwMDAwMDE3ODkwYzVmMjQ4",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcBWIGoYBM5M/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DXcBWIGoYBM5M"
+            },
+            {
+                "collaborative": false,
+                "description": "Music from Lil Tjay, Drake and Pooh Shiesty.",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd",
+                "id": "37i9dQZF1DX0XUsuxWHRQd",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003b88c67fe4fa8c33a5513cb87",
+                        "width": null
+                    }
+                ],
+                "name": "RapCaviar",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzMzNjY3MCwwMDAwMDU2NjAwMDAwMTc4OTBjNzFhZmQwMDAwMDE3ODhlNTZjZTc0",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX0XUsuxWHRQd/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX0XUsuxWHRQd"
+            },
+            {
+                "collaborative": false,
+                "description": "The world's biggest dance hits. Music from Afrojack, Timmy Trumpet, Becky Hill and more!",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4dyzvuaRJ0n"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4dyzvuaRJ0n",
+                "id": "37i9dQZF1DX4dyzvuaRJ0n",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f000000038830c7282a3797a0e9417041",
+                        "width": null
+                    }
+                ],
+                "name": "mint",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzMzNjA2MCwwMDAwMDQ4NjAwMDAwMTc4OTBiZGM4ZmEwMDAwMDE3ODhlM2RmNDRk",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4dyzvuaRJ0n/tracks",
+                    "total": 88
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n"
+            },
+            {
+                "collaborative": false,
+                "description": "The newest music from Kaleo, along with the top Rock songs you need to know.",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DXcF6B6QPhFDv"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcF6B6QPhFDv",
+                "id": "37i9dQZF1DXcF6B6QPhFDv",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f000000034e1da5bd2472134dfc3fa6fa",
+                        "width": null
+                    }
+                ],
+                "name": "Rock This",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzUyMzkzOCwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DXcF6B6QPhFDv/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DXcF6B6QPhFDv"
+            },
+            {
+                "collaborative": false,
+                "description": "The pulse of R&B music today.  Cover: Silk Sonic",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX4SBhb3fqCJd"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4SBhb3fqCJd",
+                "id": "37i9dQZF1DX4SBhb3fqCJd",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003d840a7962f41a5833582f886",
+                        "width": null
+                    }
+                ],
+                "name": "Are & Be",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzMzNjA2MCwwMDAwMDUwNzAwMDAwMTc4OTBiZGM4ZjcwMDAwMDE3ODhmY2E5M2M4",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX4SBhb3fqCJd/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX4SBhb3fqCJd"
+            },
+            {
+                "collaborative": false,
+                "description": "Today's top Latin hits are right here, on ¡Viva Latino! Cover: Karol G",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX10zKzsJ2jva",
+                "id": "37i9dQZF1DX10zKzsJ2jva",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003ca52d177146b3082faf1acf4",
+                        "width": null
+                    }
+                ],
+                "name": "¡Viva Latino!",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzUyMzk5MSwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX10zKzsJ2jva/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX10zKzsJ2jva"
+            },
+            {
+                "collaborative": false,
+                "description": "Today's top country hits of the week, worldwide! Cover: Kelsea Ballerini",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda",
+                "id": "37i9dQZF1DX1lVhptIYRda",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f0000000379d103bc14c77354ee33ac1e",
+                        "width": null
+                    }
+                ],
+                "name": "Hot Country",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzUyMzkzNiwwMDAwMDAwMGQ0MWQ4Y2Q5OGYwMGIyMDRlOTgwMDk5OGVjZjg0Mjdl",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX1lVhptIYRda/tracks",
+                    "total": 52
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DX1lVhptIYRda"
+            },
+            {
+                "collaborative": false,
+                "description": "The best newly released songs of the week. Cover: BAEKHYUN",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZMWLrh2UzwC"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZMWLrh2UzwC",
+                "id": "37i9dQZF1DWZMWLrh2UzwC",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003b82d9e0db1b5314f9459f939",
+                        "width": null
+                    }
+                ],
+                "name": "New Music Friday Malaysia",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzI5MjgwMCwwMDAwMDNlYTAwMDAwMTc4OGUyOWIwODMwMDAwMDE3ODhkYTdiNzNi",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZMWLrh2UzwC/tracks",
+                    "total": 58
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DWZMWLrh2UzwC"
+            },
+            {
+                "collaborative": false,
+                "description": "The best new music from independent artists and labels. Updates every Wednesday.  Cover: EKKSTACY, Artwork: Isu Kim",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWWjGdmeTyeJ6"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWjGdmeTyeJ6",
+                "id": "37i9dQZF1DWWjGdmeTyeJ6",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://i.scdn.co/image/ab67706f00000003b35171edbbdddf18e2cade33",
+                        "width": null
+                    }
+                ],
+                "name": "Fresh Finds",
+                "owner": {
+                    "display_name": "Spotify",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotify"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotify",
+                    "id": "spotify",
+                    "type": "user",
+                    "uri": "spotify:user:spotify"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "MTYxNzIwOTk1MSwwMDAwMDEyODAwMDAwMTc4ODkzOTgzZDIwMDAwMDE3ODg5Mjc5MmU2",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWWjGdmeTyeJ6/tracks",
+                    "total": 61
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZF1DWWjGdmeTyeJ6"
+            },
+            {
+                "collaborative": false,
+                "description": "Your daily update of the most played tracks right now - Global.",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/playlist/37i9dQZEVXbMDoHDwVN2tF"
+                },
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF",
+                "id": "37i9dQZEVXbMDoHDwVN2tF",
+                "images": [
+                    {
+                        "height": null,
+                        "url": "https://charts-images.scdn.co/assets/locale_en/regional/daily/region_global_large.jpg",
+                        "width": null
+                    }
+                ],
+                "name": "Top 50 - Global",
+                "owner": {
+                    "display_name": "spotifycharts",
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/user/spotifycharts"
+                    },
+                    "href": "https://api.spotify.com/v1/users/spotifycharts",
+                    "id": "spotifycharts",
+                    "type": "user",
+                    "uri": "spotify:user:spotifycharts"
+                },
+                "primary_color": null,
+                "public": null,
+                "snapshot_id": "NjcwNzY0NTc1LDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+                "tracks": {
+                    "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXbMDoHDwVN2tF/tracks",
+                    "total": 50
+                },
+                "type": "playlist",
+                "uri": "spotify:playlist:37i9dQZEVXbMDoHDwVN2tF"
+            }
+        ],
+        "limit": 10,
+        "next": "https://api.spotify.com/v1/browse/categories/toplists/playlists?offset=10&limit=10",
+        "offset": 0,
+        "previous": null,
+        "total": 13
+    }
+}
